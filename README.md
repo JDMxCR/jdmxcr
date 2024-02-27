@@ -1,4 +1,4 @@
-### Hola!, I'm a Junior Full-Satack Web-Developer 👋
+### Hola!, I'm a Junior Full-Stack Web-Developer 👋
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdmxcr&layout=donut&theme=vue)](https://github.com/jdmxcr)
